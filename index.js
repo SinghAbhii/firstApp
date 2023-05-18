@@ -1,3 +1,3 @@
 const heading=document.querySelector(".heading")
-heading.innerHTML="abhishek"
+heading.innerHTML="abhishek is great"
 
