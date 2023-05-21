@@ -1,3 +1,3 @@
 const heading=document.querySelector(".heading")
-heading.innerHTML="abhishek is great"
+heading.innerHTML="this should be in blue color"
 
